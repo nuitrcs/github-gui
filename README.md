@@ -1,3 +1,6 @@
-# github-gui-demo
+# Demo repository for using the GitHub GUI
 
-demo for adding and editing files in GitHub
+Things to do
+* add a file
+* edit a file
+* look at what has changed
