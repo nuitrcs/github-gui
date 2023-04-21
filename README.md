@@ -1,7 +1,7 @@
 # GitHub GUI demo
 
-I'm going to make a list:
+Things to do in the GitHub GUI:
 
-* one
-* two
-* three
+* Edit files
+* Add files
+* Look at changes
