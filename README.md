@@ -1,7 +1,6 @@
-# biostats-demo
-Demo for the biostats group
+# GitHub GUI demo
 
-Edits to show version control
+I'm going to make a list:
 
 * one
 * two
