@@ -1,5 +1,7 @@
 # Demo repository for using the GitHub GUI
 
+[Slides to follow along](https://nuwildcat.sharepoint.com/:p:/s/NUIT-RCS/Ea1D45ZPM0VHv6VZVh73Yd0B0xj1DXk-_6645R-0F3HOlw?e=5Cu2Lz)
+
 Things to do
 * add a file
 * edit a file
